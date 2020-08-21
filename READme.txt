@@ -1,4 +1,4 @@
-This Dataset contains historical sales data for 45 Walmart stores located in different regions. Each store contais a number 
+This Dataset contains historical sales data for 45 Walmart stores located in different regions. Each store contains a number 
 of Departments and our goal is to correctly predict the weekly sales.
 
 ## PROJECT PLANNING 
